@@ -1,6 +1,0 @@
-fn main{
-	println!("{}",hello);
-	println!("{}",a);
-	println!("{}",b);
-	println!("{}",c);
-}
